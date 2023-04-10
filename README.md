@@ -1,10 +1,10 @@
-## dj-store - test task - front-end part of main page store
+## dj-store
+
+### Short description
+It is a test task, front-end part, two first sreens store's main page
 
 ### Languages, Technologies, Tools:
-* HTML
-* SCSS
-* JS
-* JQuery
-* slick-carousel
+[![Languages, Technologies, Tools](https://skillicons.dev/icons?i=js,html,css,jquery)](https://skillicons.dev)
+slider make with slick-carousel
 
-### You can see the result here - https://klsva.github.io/dj-store.io/
+:grinning: You can see the result here - https://klsva.github.io/dj-store.io/
